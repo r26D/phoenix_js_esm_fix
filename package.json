@@ -9,7 +9,7 @@
   "jsdelivr": "./priv/static/phoenix.min.js",
   "exports": {
      "import": "./priv/static/phoenix.mjs",
-￼    "require": "./priv/static/phoenix.cjs.js"
+     "require": "./priv/static/phoenix.cjs.js"
   },
   "repository": {
     "type": "git",
